@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Gatsby Starter Portfolio: C
 </h1>
 
 [**Visit Portfolio**](https://m-rashid-portfolio.netlify.app/)
