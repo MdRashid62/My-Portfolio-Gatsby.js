@@ -5,7 +5,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 ## ✨ Features
 
 - Theme UI-based theming
-- react-spring parallax effe
+- react-spring parallax effec
 - CSS Animations on Shapes
 
 ## 🚀 Getting Started
