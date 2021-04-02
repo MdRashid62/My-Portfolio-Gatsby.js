@@ -4,7 +4,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 
 ## ✨ Features
 
-- Theme UI-based th
+- Theme UI-based the
 - react-spring parallax effect
 - CSS Animations on Shapes
 
