@@ -2,7 +2,7 @@
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
-## ✨ Fe
+## ✨ Fea
 
 - Theme UI-based themes
 - react-spring parallax effect
