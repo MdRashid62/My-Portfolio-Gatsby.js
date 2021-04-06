@@ -1,4 +1,4 @@
-[**Visit Portfolio**](https://m-rashid-portfolio.netl
+[**Visit Portfolio**](https://m-rashid-portfolio.netli
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
