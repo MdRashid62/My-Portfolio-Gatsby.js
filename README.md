@@ -1,4 +1,4 @@
-[**Visit Portfo**](https://m-rashid-portfolio.netlify.app/)
+[**Visit Portfol**](https://m-rashid-portfolio.netlify.app/)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
