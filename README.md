@@ -1,6 +1,6 @@
 [**For Demo Visit Portfolio**](https://m-rashid-portfolio.netlify.app/)
 
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)00000000
+Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)0000000
 
 ## ✨ Features
 
